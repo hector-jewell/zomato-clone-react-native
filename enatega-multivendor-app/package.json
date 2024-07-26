@@ -58,7 +58,7 @@
     "expo-dev-client": "~3.3.8",
     "expo-device": "~5.9.3",
     "expo-font": "~11.10.2",
-    "expo-image-picker": "~14.7.1",
+    "expo-image-picker": "~15.0.7",
     "expo-localization": "~14.8.3",
     "expo-location": "~16.5.2",
     "expo-notifications": "~0.27.5",
